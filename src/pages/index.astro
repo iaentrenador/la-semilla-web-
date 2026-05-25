@@ -1,1 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+
+// Trae todos los tomos de la carpeta content/tomos y los ordena por volumen (del más nuevo al más viejo)
+const tomos = await getCollection('tomos');
+const tomosOrdenados = tomos.sort((a, b) => b.data.volumen - a.data.volumen);
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Semilla de la Resistencia | Revista Digital</title>
+</head>
+<body style="background-color: #f5f2eb; color: #1c2816; font-family: system-ui, sans-serif; margin: 0; padding: 0;">
+
+    <header style="background-color: #23361b; color: #fcfaf2; text-align: center; padding: 4rem 2rem; border-bottom: 8px solid #436132;">
+        <h1 style="font-size: 3rem; margin: 0; letter-spacing: -1px; font-weight: 800;">LA SEMILLA DE LA RESISTENCIA</h1>
+        <p style="font-size: 1.2rem; margin-top: 0.5rem; color: #a3b899; font-style: italic;">Soberanía ambiental, tecnología verde y memoria territorial</p>
+        
+        <nav style="margin-top: 1.5rem;">
+            <a href="/nosotros" style="color: #fcfaf2; margin: 0 1rem; text-decoration: none; font-weight: bold; border-bottom: 2px solid #436132; padding-bottom: 2px;">Sobre Nosotros</a>
+            <a href="#hemeroteca" style="color: #fcfaf2; margin: 0 1rem; text-decoration: none; font-weight: bold; border-bottom: 2px solid #436132; padding-bottom: 2px;">Hemeroteca</a>
+        </nav>
+    </header>
+
+    <main style="max-width: 900px; margin: 0 auto; padding: 2rem 1rem;">
+
+        <section style="background-color: #ffffff; padding: 2.5rem; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-left: 5px solid #436132; margin-bottom: 3rem;">
+            <h2 style="color: #23361b; margin-top: 0; font-size: 1.8rem;">El Poder en el Bolsillo: Nuestra Crónica</h2>
+            <p style="font-size: 1.1rem; line-height: 1.7; font-style: italic; color: #333;">
+                "Para destapar la cloaca, no necesitás la infraestructura del Estado. Solo necesitás la convicción en la línea de tiempo y un teléfono cargado. El arma que expuso esta crisis se filmó, se cortó y se masterizó enteramente en Android con InShot."
+            </p>
+            
+            <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 1.5rem; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                <iframe 
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                    src="https://www.youtube.com/embed/dfHKc3LtG0A" 
+                    title="Laguna Rocha (un tesoro escondido)" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </section>
+
+        <section id="hemeroteca">
+            <h2 style="color: #23361b; font-size: 2rem; border-bottom: 2px solid #23361b; padding-bottom: 0.5rem; margin-bottom: 1.5rem;">
+                Tomos Publicados
+            </h2>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+                {tomosOrdenados.map(tomo => (
+                    <article style="background-color: #ffffff; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); overflow: hidden; display: flex; flex-direction: column; border: 1px solid #e2ddcf;">
+                        <div style="padding: 1.5rem; flex-grow: 1;">
+                            <span style="font-size: 0.8rem; font-weight: bold; color: #436132; text-transform: uppercase; letter-spacing: 1px;">
+                                Volumen {tomo.data.volumen}
+                            </span>
+                            <h3 style="margin: 0.5rem 0; color: #23361b; font-size: 1.4rem;">{tomo.data.title}</h3>
+                            <p style="color: #555; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.5rem;">
+                                {tomo.data.descripcion}
+                            </p>
+                        </div>
+                        <div style="background-color: #faf8f5; padding: 1rem 1.5rem; border-top: 1px solid #e2ddcf; display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-size: 0.85rem; color: #777;">{tomo.data.fecha}</span>
+                            <a href={`/tomos/${tomo.slug}`} style="color: #436132; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
+                                Leer Fascículo →
+                            </a>
+                        </div>
+                    </article>
+                ))}
+            </div>
+        </section>
+
+    </main>
+
+    <footer style="background-color: #1c2816; color: #a3b899; text-align: center; padding: 2rem; margin-top: 4rem; font-size: 0.9rem;">
+        <p>© 2026 La Semilla de la Resistencia. Contenido libre y autogestionado.</p>
+    </footer>
+
+</body>
+</html>
 
