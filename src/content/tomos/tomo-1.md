@@ -98,7 +98,55 @@ Y esa respuesta es la verdadera pregunta: ¿qué tan lejos estamos dispuestos a 
 
 ## 🏛️ Importancia Histórica
 
-*(Próximamente volcaremos los datos de esta sección)*
+Entre sus aguas la Laguna de Rocha guarda los secretos de una batalla olvidada. También fue el lugar donde se asentó Transradio Internacional.
+
+### ⚔️ La Batalla Olvidada
+
+<div style="border-radius: 8px; overflow: hidden; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/images/tomo1/historica-querandi.jpg" alt="Guerrero Querandí en los pastizales de la Laguna de Rocha" style="width: 100%; display: block;" />
+</div>
+
+**El Día que la Tierra del Plata No Pudo ser Conquistada**
+
+El 15 de junio de 1536, bajo el peso de un sol que presagiaba sangre, se desató la Batalla de Corpus Christi. Los Querandíes no lucharon con la lógica de las espadas y los arcabuces. Lucharon con la astucia ancestral de los pantanos, con el valor de quien defiende a sus familias y a su historia.
+
+Febrero de 1536. El Mar Dulce, como los navegantes lo llamaban, se abrió ante los ojos de los elegidos de la Corona. No eran simplemente 1.500 hombres en barcos; eran el puño de un imperio, la vanguardia de un destino que prometía riqueza y gloria. Venían a reclamar una tierra, sin saber que esa tierra ya tenía dueños, guardianes silenciosos que los observaban desde las sombras.
+
+Al principio, la convivencia fue la paz frágil de la ignorancia. Los Querandíes, un pueblo que vivía de la naturaleza, se acercaron con la amabilidad que la tierra les había enseñado. Pero la arrogancia de los conquistadores fue un veneno. El atrevimiento de un grupo de soldados y el rechazo de un emisario llamado Juan Pavón encendieron la chispa de la batalla.
+
+Don Pedro de Mendoza, gravemente enfermo, tomó una decisión fatal. Como un dios que desata su ira, envió a su hermano, Don Diego, al mando de 300 guerreros, a dar un castigo ejemplar a las tolderías rebeldes. Pero no iban a enfrentar a un enemigo sumiso. Iban a enfrentar el corazón de una tierra indomable.
+
+Lucharon con la astucia ancestral de los pantanos, con el valor de quien defiende a sus familias y a su historia. Con una entre ellas la de Don Diego de Mendoza y otros valientes capitanes. Fue la primera derrota de un ejército que se creía invencible. Un pueblo de guerreros sin armaduras había plantado cara a una fuerza de hierro y había escrito su nombre en la historia con la sangre del enemigo.
+
+Cuarenta y cuatro años después, en 1580, la historia volvería a convocarlos. Juan de Garay llegó con la misión de fundar la ciudad por segunda vez. Esta vez, el combate fue desigual y sangriento. El cacique Telomian Condié y su hijo Diego se opusieron a los nuevos fundadores, y en esa guerra brutal se perdió la libertad de un pueblo.
+
+Pero la historia no olvida. Esa batalla no fue una simple derrota, fue un acto de resistencia épico. La Batalla de Corpus Christi no se recuerda por quién ganó, sino por la lección que dejó: la de un pueblo que se negó a arrodillarse, que defendió su tierra con el corazón en la mano, y que, en un instante de gloria, hizo temblar a los conquistadores y grabó su nombre en la memoria del río que hoy llamamos La Matanza.
+
+---
+
+### 📻 La Ruina que Habla
+
+<div style="border-radius: 8px; overflow: hidden; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/images/tomo1/historica-transradio.jpg" alt="Vista aérea histórica de las instalaciones de Transradio Internacional" style="width: 100%; display: block;" />
+</div>
+
+**¿Qué Nos Comunica la Historia Olvidada de Transradio?**
+
+Vemos a la historia como una línea recta. Un punto inicial, un punto final y un progreso ininterrumpido. Pero ¿y si la historia no es una línea, sino un círculo que nos regresa a los mismos lugares, a las mismas contradicciones? ¿Y si hay lugares que, como la Laguna de Rocha, son la prueba viviente de esos círculos?
+
+En el año 1924, un ingeniero llamado Dennis escribía sobre un "milagro". Se refería a la primera transmisión telegráfica al mundo desde una estación poderosa en Monte Grande. Eligieron para la instalación de las antenas un lugar estratégico: la Laguna de Rocha, en sus zonas de bañados. La razón era técnica: el agua y las inundaciones esporádicas amplificaban la señal. Es una paradoja magnífica: la comunicación más avanzada del mundo dependía de un humedal, de un espacio que hoy solemos ver como "inútil" o "residual".
+
+El mismo ingeniero, en un exceso de optimismo, comparó las construcciones con las pirámides de Keops, afirmando que servirían "no solo para una generación, sino para siempre". Y en parte, tenía razón. El tiempo pasó y el lugar se convirtió en un testigo mudo de la historia del país. Pero no fue una historia de gloria.
+
+Con la evolución de la tecnología, las instalaciones fueron abandonadas. Y lo que fue un símbolo de conexión global, se transformó en un espacio de desconexión y dolor. Durante la dictadura, las ruinas de Transradio sirvieron como apoyo a dos centros clandestinos de detención. La comunicación que antes unía al mundo, se usó para silenciar las voces.
+
+Hoy, la historia de Transradio no está en un museo. Está en las ruinas que una empresa inmobiliaria amenaza con demoler. El ingeniero Dennis había pronosticado que en la zona surgiría "un pueblo pequeño" que sería la futura ciudad de 9 de Abril, afectada por inundaciones. En un giro irónico, la "nueva ciudad" que él predijo amenaza con borrar el pasado que le dio origen.
+
+La Laguna de Rocha, que fue elegida por su capacidad hídrica para amplificar una señal, ahora lucha por no ser borrada por nuestra memoria. Las viejas antenas y el edificio de LR4, todavía en pie, no son solo edificios viejos. Son la prueba de que el futuro, a veces, es la demolición de nuestro propio pasado.
+
+La verdadera pregunta, entonces, no es qué fue Transradio. La pregunta es: ¿qué estamos comunicando hoy, con cada trozo de historia que dejamos caer en el olvido?
+
+> **La historia no es una línea, sino un círculo que nos regresa a los mismos lugares.**
 
 ---
 
