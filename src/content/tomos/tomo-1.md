@@ -71,8 +71,30 @@ La flora en la Laguna de Rocha no es una lista, es una prueba de que lo complejo
 ---
 
 ## 🦅 Fauna de la Laguna
+---
+## 🦅 Fauna de la Laguna
 
-*(Próximamente volcaremos los datos de esta sección)*
+<div style="border-radius: 8px; overflow: hidden; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/images/tomo1/fauna-portada.jpg" alt="Coipo en la orilla de la Laguna de Rocha" style="width: 100%; display: block;" />
+</div>
+
+*Aloja alrededor de 173 especies de aves, otros tantos de anfibios, reptiles y mamíferos.*
+
+### El ZOO que No Vemos
+
+Cuando hablamos de fauna pensamos en una colección. Un inventario de animales que viven en un lugar. Una lista que empezamos con los que nos parecen más llamativo: las aves. Nos dicen que hay 173 especies registradas, y nos emocionamos porque nos gusta ver un colibrí o un biguá. Pero ¿qué es la fauna, en realidad?
+
+Creemos que la fauna de la Laguna de Rocha son esos pájaros que llenan el aire. Y lo son. Pero ese es apenas el primer capítulo. Debajo de la superficie, en los charcos, en las madrigueras, en el barro, habita un universo que no se nos revela con la misma facilidad. El sapito cavador que construye su refugio en la tierra o la Ranita del zarzal que canta en los juncales no son menos importantes porque no vuelen. Nuestra idea de "valor" siempre está ligada a lo que es visible.
+
+La fauna no es solo el ave que vemos, es también la comadreja que se mueve de noche, la tortuga de laguna que se asolea en la orilla y el coipo que come en silencio. Es un complejo sistema de interacciones que no está ahí para nuestro entretenimiento. La anguila criolla es un claro ejemplo: se adapta a aguas contaminadas y es capaz de respirar aire atmosférico. No es un milagro, es una respuesta biológica.
+
+Y esa respuesta es la verdadera pregunta: ¿qué tan lejos estamos dispuestos a llevar al ecosistema para que tenga que adaptarse a nuestra estupidez? La fauna no es una lista de animales. Es un conjunto de respuestas vivas a un entorno que, en gran parte, hemos modificado. Es la liebre que corre por los pastizales, el lagarto overo que es el representante de los reptiles, y también la almeja o el caracol que limpian el fondo de las aguas.
+
+> **La Laguna de Rocha no es un zoológico para nuestro entretenimiento.**
+> 
+> Es una red de seres que coexisten, se alimentan y luchan por su existencia. Y su verdadera importancia no está en lo que nos muestran, sino en lo que nos enseñan. Lo invisible, lo silencioso y lo no espectacular también tiene un lugar y un valor incalculable.
+
+**¿Somos capaces de ver la fauna como algo que no es ajeno a nosotros?**
 
 ---
 
