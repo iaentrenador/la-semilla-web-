@@ -71,8 +71,6 @@ La flora en la Laguna de Rocha no es una lista, es una prueba de que lo complejo
 ---
 
 ## 🦅 Fauna de la Laguna
----
-## 🦅 Fauna de la Laguna
 
 <div style="border-radius: 8px; overflow: hidden; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <img src="/images/tomo1/fauna-portada.jpg" alt="Coipo en la orilla de la Laguna de Rocha" style="width: 100%; display: block;" />
