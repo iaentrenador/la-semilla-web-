@@ -30,7 +30,7 @@ const tomosOrdenados = tomos.sort((a, b) => b.data.volumen - a.data.volumen);
         <section style="background-color: #ffffff; padding: 2.5rem; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-left: 5px solid #436132; margin-bottom: 3rem;">
             <h2 style="color: #23361b; margin-top: 0; font-size: 1.8rem;">El Poder en el Bolsillo: Nuestra Crónica</h2>
             <p style="font-size: 1.1rem; line-height: 1.7; font-style: italic; color: #333;">
-                "Para destapar la cloaca, no necesitás la infraestructura del Estado. Solo necesitás la convicción en la línea de tiempo y un teléfono cargado. El arma que expuso esta crisis se filmó, se cortó y se masterizó enteramente en Android con InShot."
+                "Para destapar la cloaca, no necesitás la infraestructura del Estado. Solo necesitás la convicción en la línea de tiempo y un telephone cargado. El arma que expuso esta crisis se filmó, se cortó y se masterizó enteramente en Android con InShot."
             </p>
             
             <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 1.5rem; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
@@ -52,6 +52,9 @@ const tomosOrdenados = tomos.sort((a, b) => b.data.volumen - a.data.volumen);
             <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
                 {tomosOrdenados.map(tomo => (
                     <article style="background-color: #ffffff; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); overflow: hidden; display: flex; flex-direction: column; border: 1px solid #e2ddcf;">
+                        
+                        <img src="/images/tomo1/portada.jpg" alt={tomo.data.title} style="width: 100%; height: 200px; object-fit: cover;" />
+
                         <div style="padding: 1.5rem; flex-grow: 1;">
                             <span style="font-size: 0.8rem; font-weight: bold; color: #436132; text-transform: uppercase; letter-spacing: 1px;">
                                 Volumen {tomo.data.volumen}
@@ -80,4 +83,3 @@ const tomosOrdenados = tomos.sort((a, b) => b.data.volumen - a.data.volumen);
 
 </body>
 </html>
-
