@@ -197,3 +197,46 @@ Bueno, la gente puede sumarse a esta causa, nosotros tenemos las redes de Laguna
 **Sebastián:** Muchas gracias Alan.
 
 **Alan:** No, gracias a ustedes.
+
+---
+
+<div style="background-color: #f4f6f4; border-radius: 12px; padding: 2.5rem; margin-top: 3rem; border-left: 5px solid #6b8e23; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+
+<div style="text-align: center; font-weight: bold; color: #4a5d4e; margin-bottom: 1.5rem; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 1px;">
+    En homenaje a Ariel Ramírez, activista y guardián de la Laguna
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin-bottom: 2rem;">
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <img src="/images/tomo1/contratapa-mangrullo.jpg" alt="Mangrullo de observación en la Reserva Natural" style="width: 100%; display: block;" />
+    </div>
+    
+    <div style="grid-template-columns: 1fr 1fr; display: grid; gap: 1rem;">
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <img src="/images/tomo1/contratapa-ariel-ramirez.jpg" alt="Ariel Ramírez en la Laguna" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+        </div>
+        <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+            <img src="/images/tomo1/contratapa-equipo.jpg" alt="Cristian Brandan, Sebastián y Luis" style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+        </div>
+    </div>
+</div>
+
+<div style="text-align: center; font-style: italic; color: #666; margin-bottom: 2rem; font-size: 0.95rem; line-height: 1.4;">
+    Izquierda: Ariel Ramírez, militante incansable fallecido el año pasado. <br>
+    Derecha: Profesor Cristian Brandan (a cargo del proyecto), Sebastián y Luis compartiendo en el territorio.
+</div>
+
+<div style="max-width: 600px; margin: 0 auto; color: #2c352e; line-height: 1.8; text-align: center;">
+
+### ¿De qué lado estás?
+
+La Laguna de Rocha necesita defensores. Tu conocimiento es su protección.
+
+Exigimos la finalización del paseo público para poder sentir y cuidar nuestro humedal.
+
+**Actúa.** Infórmate sobre los servicios ecosistémicos de la Laguna. Exige que tu derecho a un ambiente sano se cumpla.
+
+</div>
+
+</div>
+
