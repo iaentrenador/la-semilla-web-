@@ -200,20 +200,24 @@ Bueno, la gente puede sumarse a esta causa, nosotros tenemos las redes de Laguna
 
 ---
 
+<div align="center">
+
 ### 💚 En homenaje a Ariel Ramírez, activista y guardián de la Laguna
 
-![Mangrullo de observación en la Reserva Natural](/images/tomo1/contratapa-mangrullo.jpg)
-*El mangrullo de observación en el territorio de la Reserva Natural.*
+<img src="/images/tomo1/contratapa-mangrullo.jpg" alt="Mangrullo de observación en la Reserva Natural" width="500" />
+<br><em>El mangrullo de observación en el territorio de la Reserva Natural.</em>
 
----
+<br><br>
 
-![Ariel Ramírez en la Laguna](/images/tomo1/contratapa-ariel-ramirez.jpg)
-*Ariel Ramírez, militante incansable y guardián de la laguna, fallecido el año pasado.*
+<img src="/images/tomo1/contratapa-ariel-ramirez.jpg" alt="Ariel Ramírez en la Laguna" width="400" />
+<br><em>Ariel Ramírez, militante incansable y guardián de la laguna, fallecido el año pasado.</em>
 
----
+<br><br>
 
-![Profesor Cristian Brandan, Sebastián y Luis](/images/tomo1/contratapa-equipo.jpg)
-*El profesor Cristian Brandan (a cargo del proyecto), Sebastián y Luis compartiendo en el territorio.*
+<img src="/images/tomo1/contratapa-equipo.jpg" alt="Profesor Cristian Brandan, Sebastián y Luis" width="400" />
+<br><em>El profesor Cristian Brandan (a cargo del proyecto), Sebastián y Luis compartiendo en el territorio.</em>
+
+<br><br>
 
 ---
 
@@ -224,4 +228,7 @@ La Laguna de Rocha necesita defensores. Tu conocimiento es su protección.
 Exigimos la finalización del paseo público para poder sentir y cuidar nuestro humedal.
 
 **Actúa.** Infórmate sobre los servicios ecosistémicos de la Laguna. Exige que tu derecho a un ambiente sano se cumpla.
+
+</div>
+
 
