@@ -14,7 +14,6 @@ Para destapar la cloaca, no necesitás la infraestructura del Estado. Solo neces
 
 ## 🔬 Importancia Hídrica
 
-<!-- IMAGEN PORTADA DE LA SECCIÓN -->
 <div style="border-radius: 8px; overflow: hidden; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <img src="/images/tomo1/hidrica-reflejo.jpg" alt="Reflejos en la Laguna de Rocha" style="width: 100%; display: block;" />
 </div>
@@ -25,7 +24,7 @@ Para destapar la cloaca, no necesitás la infraestructura del Estado. Solo neces
 
 Nos enseñaron a pensar en la laguna como un objeto. Un espejo de agua en el mapa, un punto de referencia para el GoogleMaps. Pero, ¿y si la laguna no es un objeto? ¿Y si no es un lugar, sino una pregunta? ¿O peor todavía, un simple y humilde charco que nos obliga a repensar nuestra arrogancia?
 
-La Laguna de Rocha no es solo un cuerpo de agua. Es el punto exacto donde la geografía y la historia se juntan para darnos una lección de humildad. Es un humedal en la cuenca del Matanza-Riachuelo, un territorio de bordes indefinidos que nos lleva a pensar que las cosas tienen un principio y un final. Nos dicen que la laguna tiene una importancia hídrica. Pero ¿qué es la "importancia"? Es un algo que nos inventamos los humanos para darle valor a las cosas en relación de lo que nos sirven. Si la laguna nos salva de algo, entonces es importante. Y ese es el primer error.
+La Laguna de Rocha no es solo un cuerpo de agua. Es el punto exacto donde la geografía y la historia se juntan para darnos una lección de humildad. Es un humedal en la cuenca del Matanza-Riachuelo, un territory de bordes indefinidos que nos lleva a pensar que las cosas tienen un principio y un final. Nos dicen que la laguna tiene una importancia hídrica. Pero ¿qué es la "importancia"? Es un algo que nos inventamos los humanos para darle valor a las cosas en relación de lo que nos sirven. Si la laguna nos salva de algo, entonces es importante. Y ese es el primer error.
 
 La laguna no nos "salva". Simplemente hace lo que debe.
 
@@ -43,9 +42,31 @@ La verdadera importancia, entonces, no es lo que nos da. Sino lo que nos exige q
 
 ---
 
-## 🌱 Flora de La Laguna
+## 🌱 Flora de la Laguna
 
-*(Próximamente volcaremos los datos de esta sección)*
+<div style="border-radius: 8px; overflow: hidden; margin: 2rem 0; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/images/tomo1/flora-portada.jpg" alt="Flora de la Laguna de Rocha" style="width: 100%; display: block;" />
+</div>
+
+*Desde el punto de vista de la flora, se observa una neta dominancia de la comunidad denominado totoral.*
+
+### La enseñanza de una Hoja
+
+Lo que la Flora de la Laguna de Rocha nos muestra.
+
+Pensamos que sabemos que es la flora. Una palabra de origen latino para agrupar todas las plantas. Una simple lista de nombres científicos, un inventario de especies que clasificamos, medimos y etiquetamos. Pero la flora no es un conjunto de cosas, cada planta en la Laguna de Rocha no es solo un ser vivo. Cuando caminamos por los bordes de la laguna, lo primero que vemos es como domina el totoral. Esa planta alta, densa, que se impone como un ejército verde. Podríamos pensar que se trata de un monólogo de la naturaleza, de una especie que borra a las demás. Pero el totoral no es un tirano, es el cimiento de una comunidad.
+
+Es el que crea el ambiente para que otras especies puedan existir. En un mundo que nos enseña a competir, el totoral nos dice que a veces el dominio es una forma de hospitalidad. Y si bajamos la vista, están los juncos, los camalotes, la lenteja de agua. La flora no es un cuadro estático, es una conversación en constante movimiento, un diálogo entre el agua y la tierra. La cortadera, con sus plumeros blancos, se alza como el emblema de la pampa. Pero con esto no digo que es más importante que otra planta. A lo que voy es que la cortadera al ser tan visible, nos obliga a ver todo lo que la rodea: los talares, los ceibos que resisten en los márgenes.
+
+incómodas, las que no queremos hacer. Hay especies que nos gritan en silencio. El lirio de bañado y, sobre todo, la Cypella herbertii y la Rosa de Río. No se extinguieron, pero están en riesgo. Tenemos que aprender a mirar al margen, a lo que está a punto de desaparecer, porque es ahí donde se muestra la verdad. Estas plantas no son solo especies vulnerables. Su alto riesgo de extinción no es su culpa, es el reflejo de una sociedad que valora la construcción de un edificio más que la existencia de la naturaleza.
+
+La flora en la Laguna de Rocha no es una lista, es una prueba de que lo complejo puede ser hermoso, de que la convivencia es posible, y de que...
+
+> **La belleza está en aquello que estamos a punto de perder.**
+>
+> La verdadera pregunta no es qué plantas hay en la laguna. La pregunta es: ¿somos capaces de ver la enseñanza que se esconde en cada una de sus hojas?
+
+*(Nota del editor: Registro fotográfico en territorio por el equipo de La Semilla)*
 
 ---
 
