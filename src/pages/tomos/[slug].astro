@@ -1,17 +1,24 @@
 ---
 import { getCollection } from 'astro:content';
 
-// 1. Generar las rutas para cada tomo en la carpeta content/tomos
+// 1. Generar las rutas de producción de forma segura
 export async function getStaticPaths() {
   const tomosEntries = await getCollection('tomos');
   return tomosEntries.map(entry => ({
-    params: { slug: entry.slug }, props: { entry },
+    params: { slug: entry.slug }, 
+    props: { entry },
   }));
 }
 
-// 2. Agarrar el contenido del tomo específico
+// 2. Extraer datos con protecciones contra errores de compilación
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+
+// Valores de respaldo por si algún archivo .md viene incompleto
+const titulo = entry?.data?.title || "Tomo de la Revista";
+const volumen = entry?.data?.volumen || "1";
+const fecha = entry?.data?.fecha || "";
+const descripcion = entry?.data?.descripcion || "";
 ---
 
 <!DOCTYPE html>
@@ -19,19 +26,22 @@ const { Content } = await entry.render();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{entry.data.title} | La Semilla de la Resistencia</title>
+    <title>{titulo} | La Semilla de la Resistencia</title>
+
+    <!-- MOTOR SUTIL DE MONETIZACIÓN: Adsterra Social Bar (Activo para todos los tomos) -->
+    <script src="https://pl29575161.effectivecpmnetwork.com/a4/09/94/a409946c03c4daca6ea162a88cf8935c.js" is:inline></script>
 </head>
 <body style="background-color: #fcfaf2; color: #1c2816; font-family: sans-serif; padding: 2rem; max-width: 800px; margin: 0 auto;">
     
     <a href="/" style="color: #436132; text-decoration: none; font-weight: bold;">← Volver al Inicio</a>
     
     <header style="margin-top: 2rem; border-bottom: 2px dashed #436132; padding-bottom: 1rem;">
-        <span style="background: #436132; color: white; padding: 0.2rem 0.6rem; font-size: 0.8rem; font-weight: bold; borderRadius: 4px;">
-            VOLUMEN {entry.data.volumen}
+        <span style="background: #436132; color: white; padding: 0.2rem 0.6rem; font-size: 0.8rem; font-weight: bold; border-radius: 4px;">
+            VOLUMEN {volumen}
         </span>
-        <h1 style="font-size: 2.5rem; margin: 0.5rem 0; color: #23361b;">{entry.data.title}</h1>
-        <p style="color: #666; font-style: italic;">Publicado el: {entry.data.fecha}</p>
-        <p style="font-size: 1.1rem; line-height: 1.6; color: #3c4d35;">{entry.data.descripcion}</p>
+        <h1 style="font-size: 2.5rem; margin: 0.5rem 0; color: #23361b;">{titulo}</h1>
+        {fecha && <p style="color: #666; font-style: italic;">Publicado el: {fecha}</p>}
+        {descripcion && <p style="font-size: 1.1rem; line-height: 1.6; color: #3c4d35;">{descripcion}</p>}
     </header>
 
     <main style="line-height: 1.8; font-size: 1.1rem; margin-top: 2rem;">
@@ -40,4 +50,3 @@ const { Content } = await entry.render();
 
 </body>
 </html>
-
