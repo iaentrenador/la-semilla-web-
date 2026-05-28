@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/Layout.astro
 title: "Tomo 1: Laguna de Rocha - Conocer para Defender"
 volumen: 1
 fecha: "2024-12-03"
