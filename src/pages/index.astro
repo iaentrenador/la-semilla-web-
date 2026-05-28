@@ -1,17 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 
-// 1. Generar las rutas para cada tomo en la carpeta content/tomos
-export async function getStaticPaths() {
-  const tomosEntries = await getCollection('tomos');
-  return tomosEntries.map(entry => ({
-    params: { slug: entry.slug }, props: { entry },
-  }));
-}
-
-// 2. Agarrar el contenido del tomo específico
-const { entry } = Astro.props;
-const { Content } = await entry.render();
+// Trae todos los tomos de la carpeta content/tomos y los ordena por volumen (del más nuevo al más viejo)
+const tomos = await getCollection('tomos');
+const tomosOrdenados = tomos.sort((a, b) => b.data.volumen - a.data.volumen);
 ---
 
 <!DOCTYPE html>
@@ -19,26 +11,108 @@ const { Content } = await entry.render();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{entry.data.title} | La Semilla de la Resistencia</title>
-
-    <script src="https://pl29575161.effectivecpmnetwork.com/a4/09/94/a409946c03c4daca6ea162a88cf8935c.js"></script>
+    <title>La Semilla de la Resistencia | Revista Digital</title>
 </head>
-<body style="background-color: #fcfaf2; color: #1c2816; font-family: sans-serif; padding: 2rem; max-width: 800px; margin: 0 auto;">
-    
-    <a href="/" style="color: #436132; text-decoration: none; font-weight: bold;">← Volver al Inicio</a>
-    
-    <header style="margin-top: 2rem; border-bottom: 2px dashed #436132; padding-bottom: 1rem;">
-        <span style="background: #436132; color: white; padding: 0.2rem 0.6rem; font-size: 0.8rem; font-weight: bold; border-radius: 4px;">
-            VOLUMEN {entry.data.volumen}
-        </span>
-        <h1 style="font-size: 2.5rem; margin: 0.5rem 0; color: #23361b;">{entry.data.title}</h1>
-        <p style="color: #666; font-style: italic;">Publicado el: {entry.data.fecha}</p>
-        <p style="font-size: 1.1rem; line-height: 1.6; color: #3c4d35;">{entry.data.descripcion}</p>
+<body style="background-color: #f5f2eb; color: #1c2816; font-family: system-ui, sans-serif; margin: 0; padding: 0;">
+
+    <header style="background-color: #23361b; color: #fcfaf2; text-align: center; padding: 4rem 2rem; border-bottom: 8px solid #436132;">
+        <h1 style="font-size: 3rem; margin: 0; letter-spacing: -1px; font-weight: 800;">LA SEMILLA DE LA RESISTENCIA</h1>
+        <p style="font-size: 1.2rem; margin-top: 0.5rem; color: #a3b899; font-style: italic;">Soberanía ambiental, tecnología verde y memoria territorial</p>
+        
+        <nav style="margin-top: 1.5rem;">
+            <a href="/nosotros" style="color: #fcfaf2; margin: 0 1rem; text-decoration: none; font-weight: bold; border-bottom: 2px solid #436132; padding-bottom: 2px;">Sobre Nosotros</a>
+            <a href="#hemeroteca" style="color: #fcfaf2; margin: 0 1rem; text-decoration: none; font-weight: bold; border-bottom: 2px solid #436132; padding-bottom: 2px;">Hemeroteca</a>
+        </nav>
     </header>
 
-    <main style="line-height: 1.8; font-size: 1.1rem; margin-top: 2rem;">
-        <Content />
+    <main style="max-width: 900px; margin: 0 auto; padding: 2rem 1rem;">
+
+        <section style="background-color: #ffffff; padding: 2.5rem; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-left: 5px solid #436132; margin-bottom: 3rem;">
+            <h2 style="color: #23361b; margin-top: 0; font-size: 1.8rem;">El Poder en el Bolsillo: Nuestra Crónica</h2>
+            <p style="font-size: 1.1rem; line-height: 1.7; font-style: italic; color: #333;">
+                "Para destapar la cloaca, no necesitás la infraestructura del Estado. Solo necesitás la convicción en la línea de tiempo y un telephone cargado. El arma que expuso esta crisis se filmó, se cortó y se masterizó enteramente en Android con InShot."
+            </p>
+            
+            <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-top: 1.5rem; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                <iframe 
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                    src="https://www.youtube.com/embed/dfHKc3LtG0A" 
+                    title="Laguna Rocha (un tesoro escondido)" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </section>
+
+        <!-- BLOQUE DE FINANCIAMIENTO COMPLETO (Mercado Pago + Adsterra Real) -->
+        <section style="border: 2px solid #436132; border-radius: 12px; padding: 25px; margin: 3rem auto; text-align: center; background-color: #eef5ec; box-shadow: 0 4px 6px rgba(0,0,0,0.03);">
+            <h3 style="color: #23361b; margin-top: 0; font-size: 1.5rem; font-weight: 700;">🛠️ El Laboratorio de la Resistencia: Financiá lo que se viene</h3>
+            
+            <p style="text-align: left; margin-bottom: 1.2rem; font-size: 1.05rem; line-height: 1.6; color: #222;">
+                <em>La Semilla de la Resistencia</em> no es solo una revista de lectura; es la bitácora de un proyecto mucho más ambicioso. Detrás de estas páginas, el equipo está diseñando, construyendo y testeando prototipos de tecnología soberana y ecológica para el territorio.
+            </p>
+            
+            <p style="text-align: left; margin-bottom: 1.5rem; font-size: 1.05rem; line-height: 1.6; color: #222;">
+                Para llevar estos desarrollos del plano digital a la realidad física, requerimos insumos pesados, herramientas y el trabajo de técnicos especializados en metalúrgica y herrería. No queremos contarte qué estamos armando en el taller para no romper el misterio... pero te aseguramos que el próximo tomo va a cambiar las reglas del juego.
+            </p>
+            
+            <p style="font-weight: bold; margin-bottom: 1.5rem; color: #23361b; font-size: 1.1rem;">
+                ¿Cómo podés sumarte a financiar los materiales de los experimentos secretos? Elegí tu vía:
+            </p>
+            
+            <!-- Opción 1: Mercado Pago -->
+            <div style="margin-bottom: 1.5rem;">
+                <a href="https://link.mercadopago.com.ar/lasemillaweb" target="_blank" style="display: inline-block; background-color: #23361b; color: #fcfaf2; padding: 14px 28px; text-decoration: none; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.15); font-size: 1.05rem; width: 80%; max-width: 400px;">
+                    OPCIÓN 1: Aporte Solidario (Monto Abierto)
+                </a>
+                <p style="font-size: 0.9rem; color: #555; margin-top: 0.4rem;">Si querés transferir lo que puedas directamente desde tu billetera virtual.</p>
+            </div>
+
+            <!-- Opción 2: Adsterra Smart Link Real -->
+            <div>
+                <a href="https://www.effectivecpmnetwork.com/ghsnmtgrt?key=94a9bf101378bbd097b22b13b05b71f5" target="_blank" style="display: inline-block; background-color: #fcfaf2; color: #23361b; padding: 14px 28px; text-decoration: none; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 10px rgba(0,0,0,0.08); font-size: 1.05rem; border: 2px solid #23361b; width: 80%; max-width: 400px;">
+                    OPCIÓN 2: Soporte 100% Gratuito
+                </a>
+                <p style="font-size: 0.9rem; color: #555; margin-top: 0.4rem;">¿No podés poner plata? Apoyanos mirando unos segundos de publicidad de nuestros auspiciantes oficiales.</p>
+            </div>
+        </section>
+
+        <section id="hemeroteca">
+            <h2 style="color: #23361b; font-size: 2rem; border-bottom: 2px solid #23361b; padding-bottom: 0.5rem; margin-bottom: 1.5rem;">
+                Tomos Publicados
+            </h2>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem;">
+                {tomosOrdenados.map(tomo => (
+                    <article style="background-color: #ffffff; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); overflow: hidden; display: flex; flex-direction: column; border: 1px solid #e2ddcf;">
+                        
+                        <img src="/images/tomo1/portada.jpg" alt={tomo.data.title} style="width: 100%; height: 200px; object-fit: cover;" />
+
+                        <div style="padding: 1.5rem; flex-grow: 1;">
+                            <span style="font-size: 0.8rem; font-weight: bold; color: #436132; text-transform: uppercase; letter-spacing: 1px;">
+                                Volumen {tomo.data.volumen}
+                            </span>
+                            <h3 style="margin: 0.5rem 0; color: #23361b; font-size: 1.4rem;">{tomo.data.title}</h3>
+                            <p style="color: #555; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.5rem;">
+                                {tomo.data.descripcion}
+                            </p>
+                        </div>
+                        <div style="background-color: #faf8f5; padding: 1rem 1.5rem; border-top: 1px solid #e2ddcf; display: flex; justify-content: space-between; align-items: center;">
+                            <span style="font-size: 0.85rem; color: #777;">{tomo.data.fecha}</span>
+                            <a href={`/tomos/${tomo.slug}`} style="color: #436132; text-decoration: none; font-weight: bold; font-size: 0.95rem;">
+                                Leer Fascículo →
+                            </a>
+                        </div>
+                    </article>
+                ))}
+            </div>
+        </section>
+
     </main>
+
+    <footer style="background-color: #1c2816; color: #a3b899; text-align: center; padding: 2rem; margin-top: 4rem; font-size: 0.9rem;">
+        <p>© 2026 La Semilla de la Resistencia. Contenido libre y autogestionado.</p>
+    </footer>
 
 </body>
 </html>
