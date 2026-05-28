@@ -1,0 +1,36 @@
+---
+const { title = "La Semilla de la Resistencia" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    
+    <!-- Estilos base globales para la lectura de la revista -->
+    <style is:global>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #ffffff;
+            color: #2c352e;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+
+    <!-- Umami Analytics -->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="0ca69d30-7cdd-4ffe-aaf6-1f7c6c55eee5"></script>
+</head>
+<body>
+    <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
+        <slot />
+    </main>
+</body>
+</html>
