@@ -9,7 +9,6 @@ const { title = "La Semilla de la Resistencia" } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     
-    <!-- Estilos base globales para la lectura de la revista -->
     <style is:global>
         body {
             font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
@@ -19,18 +18,60 @@ const { title = "La Semilla de la Resistencia" } = Astro.props;
             margin: 0;
             padding: 0;
         }
-        img {
-            max-width: 100%;
+        
+        /* Modificamos las imágenes para que no exploten en pantalla, se centren y muestren que son cliqueables */
+        main img {
+            display: block;
+            max-width: 420px; /* Tamaño ideal tipo libro para capturas y documentos verticales */
+            width: 100%;
             height: auto;
+            margin: 2rem auto;
+            border-radius: 4px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border: 1px solid #e2ddcf;
+            cursor: zoom-in; /* Le avisa al lector que puede hacer clic para ampliar */
+            transition: transform 0.2s ease;
+        }
+
+        main img:hover {
+            transform: scale(1.01);
+        }
+
+        /* Estilos específicos para cuando la librería activa el zoom */
+        .medium-zoom-overlay {
+            z-index: 99;
+            cursor: zoom-out;
+        }
+        .medium-zoom-image--opened {
+            z-index: 100;
+            cursor: zoom-out;
         }
     </style>
 
-    <!-- Umami Analytics -->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="0ca69d30-7cdd-4ffe-aaf6-1f7c6c55eee5"></script>
 </head>
 <body>
     <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
         <slot />
     </main>
+
+    <script>
+        // Cargamos la librería de forma dinámica desde el CDN
+        import mediumZoom from 'medium-zoom';
+
+        // Ejecutamos el zoom sobre todas las imágenes que estén dentro de nuestro <main>
+        document.addEventListener('astro:page-load', () => {
+            mediumZoom('main img', {
+                margin: 24,
+                background: 'rgba(255, 255, 255, 0.95)' // Fondo limpio para concentrarse en el documento
+            });
+        });
+
+        // Inicialización por si no usas los ViewTransitions de Astro
+        mediumZoom('main img', {
+            margin: 24,
+            background: 'rgba(255, 255, 255, 0.95)'
+        });
+    </script>
 </body>
 </html>
