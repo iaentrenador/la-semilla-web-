@@ -21,7 +21,7 @@ El Cebey no es un arroyo, es una vena abierta. Y no sangra agua, sangra contradi
 
 Pero acá no viene el final feliz de película. Acá viene la crónica. Acá viene el registro. Porque nosotros no somos el público que aplaude el atropello, nosotros somos los que grabamos con las cámaras de seguridad para que quede evidencia. Esta revista es nuestro tribunal.
 
-Así que agarrate. Porque en este tomo te vamos a mostrar la realidad del territorio, la cronología del conflicto. Y al final, la voz de un pibe que fue al parlamento a decirles la verdad de los barrios en la cara. Sin vueltas, sin disfraz. Con los pies en el barro y la voz firme.
+Así que agarrate. Because en este tomo te vamos a mostrar la realidad del territorio, la cronología del conflicto. Y al final, la voz de un pibe que fue al parlamento a decirles la verdad de los barrios en la cara. Sin vueltas, sin disfraz. Con los pies en el barro y la voz firme.
 
 Bienvenidos al Cebey. El agua está bajo sospecha, pero la resistencia está clara.
 
@@ -42,16 +42,16 @@ El recorrido es así: el agua arranca limpia en los papeles —o eso dicen los q
 ### LAS ZONAS AFECTADAS: EL RADIO DEL IMPACTO
 
 * **Barrios aledaños:** Familias que abren la canilla y ya no saben si preparar mate o dudar de la seguridad de su propia agua.
-* **Zonas ribereñas:** Un ecosistema golpeado donde la fauna autóctona (como el hocó de nuestra portada, un ave zancuda al borde del agua turbia, basada en la imagen provista) resiste en un entorno visiblemente degradado.
+* **Zonas ribereñas:** Un ecosistema golpeado donde la fauna autóctona resiste en un entorno visiblemente degradado.
 * **El Río de la Plata:** El final del viaje. El agua del Cebey arrastra la problemática río abajo, expandiendo el impacto ambiental a una escala mucho mayor.
-
-![Un hocó colorado (ave zancuda autóctona) posado sobre rocas en la orilla del arroyo de agua turbia y gris, con ramas secas saliendo a la superficie. La imagen transmite la resistencia de la naturaleza frente a la degradación ambiental, basada en la imagen provista](/images/tomo2/arroyo-hoco.jpg)
 
 ### EL CERTIFICADO: LA UBICACIÓN EXACTA DE LA IRONÍA
 
 Acá está el dato que duele: mientras la comunidad denuncia el estado del agua, la gestión local sostiene el Certificado de Aptitud Ambiental para la firma cuestionada. Es como darle un premio de seguridad vial al que maneja a contramano. La ubicación exacta de la contradicción institucional: allí donde la normativa parece mirar para otro lado mientras el reclamo vecinal no para de crecer.
 
-![Una captura de pantalla de un documento municipal con un sello de la Municipalidad de Cañuelas, un DECRETA, y un Certificado de Aptitud Ambiental para HIJOS DE PEDRO VINCENTI S.A., basado en la imagen provista](/images/tomo2/certificado-municipal.jpg)
+![Evidencia fotográfica del decreto de la Municipalidad de Cañuelas otorgando la aptitud ambiental](/images/tomo2/decreto.jpg)
+
+![Copia del Certificado de Aptitud Ambiental firmado por las autoridades locales](/images/tomo2/certificado.jpg)
 
 ### COORDENADAS PARA EL REGISTRO
 
