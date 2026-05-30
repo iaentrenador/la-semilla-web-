@@ -49,29 +49,29 @@ const { title = "La Semilla de la Resistencia" } = Astro.props;
     </style>
 
     <script defer src="https://cloud.umami.is/script.js" data-website-id="0ca69d30-7cdd-4ffe-aaf6-1f7c6c55eee5"></script>
+
+    <script src="https://unpkg.com/medium-zoom@5/dist/medium-zoom.min.js" is:inline></script>
 </head>
 <body>
     <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
         <slot />
     </main>
 
-    <script>
-        // Cargamos la librería de forma dinámica desde el CDN
-        import mediumZoom from 'medium-zoom';
+    <script is:inline>
+        function iniciarZoom() {
+            if (typeof mediumZoom !== 'undefined') {
+                mediumZoom('main img', {
+                    margin: 24,
+                    background: 'rgba(255, 255, 255, 0.95)' // Fondo limpio para concentrarse en el documento
+                });
+            }
+        }
 
-        // Ejecutamos el zoom sobre todas las imágenes que estén dentro de nuestro <main>
-        document.addEventListener('astro:page-load', () => {
-            mediumZoom('main img', {
-                margin: 24,
-                background: 'rgba(255, 255, 255, 0.95)' // Fondo limpio para concentrarse en el documento
-            });
-        });
-
-        // Inicialización por si no usas los ViewTransitions de Astro
-        mediumZoom('main img', {
-            margin: 24,
-            background: 'rgba(255, 255, 255, 0.95)'
-        });
+        // Se ejecuta al cargar la página
+        window.addEventListener('DOMContentLoaded', iniciarZoom);
+        
+        // Soporte por si usas ViewTransitions de Astro
+        document.addEventListener('astro:page-load', iniciarZoom);
     </script>
 </body>
 </html>
