@@ -18,7 +18,7 @@ Vos abrís la canilla y esperás agua potable. Sale algo que parece salido de *E
 
 El Cebey no es un arroyo, es una vena abierta. Y no sangra agua, sangra contradicción regulatoria. Cientos de familias viven al lado de esto, respiran esto, conviven con esto. Y mientras tanto, el municipio de Cañuelas juega a las relaciones públicas del ambientalismo de cartón. Es como si en el Titanic te dieran un certificado de navegación *después* de ver el iceberg.
 
-Pero acá no viene el final feliz de película. Acá viene la crónica. Acá viene el registro. Porque nosotros no somos el público que aplaude el atropello, nosotros somos los que grabamos con las cámaras de seguridad para que quede evidencia. Esta revista es nuestro tribunal.
+Pero acá no viene el final feliz de película. Acá viene la crónica. Acá viene el registro. Porque nosotros no somos el público que aplaude el atropello, nosotros somos los que vamos a darle mas visibilidad a este reclamo existente. Esta revista es nuestro tribunal.
 
 Así que agarrate. Porque en este tomo te vamos a mostrar la realidad del territorio, la cronología del conflicto. Y al final, la voz de un pibe que fue al parlamento a decirles la verdad de los barrios en la cara. Sin vueltas, sin disfraz. Con los pies en el barro y la voz firme.
 
