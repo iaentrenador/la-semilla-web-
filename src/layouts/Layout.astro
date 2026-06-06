@@ -19,22 +19,31 @@ const { title = "La Semilla de la Resistencia" } = Astro.props;
             padding: 0;
         }
         
-        /* Modificamos las imágenes para que no exploten en pantalla, se centren y muestren que son cliqueables */
+        /* Regla base para todas las imágenes */
         main img {
             display: block;
-            max-width: 420px; /* Tamaño ideal tipo libro para capturas y documentos verticales */
             width: 100%;
             height: auto;
             margin: 2rem auto;
             border-radius: 4px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
             border: 1px solid #e2ddcf;
-            cursor: zoom-in; /* Le avisa al lector que puede hacer clic para ampliar */
+            cursor: zoom-in;
             transition: transform 0.2s ease;
         }
 
         main img:hover {
             transform: scale(1.01);
+        }
+
+        /* Contenedor para mapas o ilustraciones horizontales */
+        .img-horizontal img {
+            max-width: 700px !important; 
+        }
+
+        /* Contenedor para documentos verticales */
+        .img-documento img {
+            max-width: 400px !important;
         }
 
         /* Estilos específicos para cuando la librería activa el zoom */
@@ -50,7 +59,8 @@ const { title = "La Semilla de la Resistencia" } = Astro.props;
 
     <script defer src="https://cloud.umami.is/script.js" data-website-id="0ca69d30-7cdd-4ffe-aaf6-1f7c6c55eee5"></script>
 
-    <script src="https://unpkg.com/medium-zoom@5/dist/medium-zoom.min.js" is:inline></script>
+    <!-- Usamos cdnjs como alternativa si unpkg presenta intermitencias -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/1.1.0/medium-zoom.min.js" is:inline></script>
 </head>
 <body>
     <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
@@ -62,15 +72,12 @@ const { title = "La Semilla de la Resistencia" } = Astro.props;
             if (typeof mediumZoom !== 'undefined') {
                 mediumZoom('main img', {
                     margin: 24,
-                    background: 'rgba(255, 255, 255, 0.95)' // Fondo limpio para concentrarse en el documento
+                    background: 'rgba(255, 255, 255, 0.95)'
                 });
             }
         }
 
-        // Se ejecuta al cargar la página
         window.addEventListener('DOMContentLoaded', iniciarZoom);
-        
-        // Soporte por si usas ViewTransitions de Astro
         document.addEventListener('astro:page-load', iniciarZoom);
     </script>
 </body>
