@@ -111,3 +111,104 @@ A través del Decreto N° 0080, el municipio otorgó formalmente el **Certificad
 El arroyo sigue corriendo. Los vecinos unidos siguen organizados en el territorio. La planta continúa operando bajo el amparo de la resolución municipal. Y esta revista mantiene su compromiso como canal de difusión y registro de cada documento y cada voz del barrio.
 
 **La película no terminó. Pero el público ya se cansó de mirar.**
+
+---
+
+title: "Entrevista Exclusiva: La Voz Juvenil de Cañuelas"
+volumen: 2
+fecha: "2026-06-28"
+descripcion: "Mano a mano con GianLuca Buscheri, el estudiante del CENS 451 que llevó el reclamo por la contaminación del arroyo Cebey y el río Matanza-Riachuelo al Parlamento Juvenil Bonaerense."
+draft: true
+tags: ["entrevista", "parlamento-juvenil", "cañuelas", "organizacion"]
+---
+
+# Entrevista Exclusiva: La Voz Juvenil de Cañuelas
+## GianLuca Buscheri
+
+¡Buenas tardes, lectores y lectoras de La Semilla de la Resistencia! Hoy tenemos el placer de charlar con un joven que, desde la banca del 7° Parlamento Juvenil Bonaerense, puso en el centro del debate una problemática local con alcance provincial: el rol vital de la autogestión vecinal en el cuidado del medio ambiente. Él es GianLuca Buscheri, representante de Cañuelas, y nos contará sobre el proyecto del CENS 451 y el poder de la organización comunitaria frente a la contaminación del río Matanza-Riachuelo.
+
+<div class="img-horizontal">
+  <img src="/images/tomo2/entrevista-1.jpg" alt="GianLuca Buscheri exponiendo en el Honorable Concejo Deliberante de Cañuelas" />
+</div>
+
+---
+
+**Sebastián:** ¡Hola, GianLuca! Felicitaciones por el trabajo. Para que nuestro público en otros distritos entienda mejor, contanos: ¿Cómo y dónde nace la idea del proyecto ambiental que llevaron al Parlamento, ese que se centra en el arroyo de Cañuelas? ¿Hubo algún detonante o una necesidad urgente que las impulsó?
+
+**GianLuca:** Cuando nos informaron que íbamos a participar en un parlamento, primero en el Honorable Consejo Deliberante de Cañuelas, nuestro profesor, Christian Franco, a quien le encargaron guiarnos en todo esto, nos dio como opciones distintas problemáticas que podríamos abordar. La verdad es que había muchas opciones, así que tuvimos que hacer un trabajo de descarte; es decir, analizar cuáles podíamos abordar, cómo hacerlo y qué podríamos proponer al respecto. Al final, nos quedamos con el tema del medioambiente porque consideramos que era algo en lo que podíamos involucrar a las instituciones y a los estudiantes, tal como propone el proyecto: convertir los colegios en sedes de concientización y monitoreo ambiental para los alumnos.
+
+Inicialmente, cuando debatíamos en el aula sobre qué podría tratar el proyecto, hablamos del río Matanza, ya que una parte de este pasa por Cañuelas, atraviesa un barrio vecino a nuestro colegio y suele tener muchísima contaminación, al punto de no poder respirar si se está muy cerca. Sin embargo, unas compañeras, Noelia Herenu y Fabiana Banegas, comentaron que la contaminación en el tramo del río Matanza que atraviesa Cañuelas se origina en el arroyo Cebey. En este arroyo, ubicado también en Cañuelas, distintas empresas vierten sus desechos, y como luego desemboca en el río Matanza, decidimos cambiar el enfoque. Sin dejar de mencionar el río, centramos el proyecto en el arroyo Cebey.
+
+Al abordar el proyecto de esa forma, ya no nos centrábamos solo en un barrio. Al seguir el recorrido del arroyo Cebey y el río Matanza, el proyecto pasó a incluir a distintos distritos que forman parte de la cuenca, lo que nos dio una perspectiva regional. Esto nos permitió entender que lo que pasa en nuestro arroyo termina afectando a muchas más personas río abajo.
+
+---
+
+**Sebastián:** En tu discurso nombraste al profesor Christian como una pieza clave en armar el proyecto. ¿Qué rol jugó él para que esta idea tomara forma legislativa y pudiera ser presentada en La Plata? ¿Fue más un guía académico o un motivador cívico?
+
+**GianLuca:** Como comenté anteriormente, él nos informó del evento en el que íbamos a participar y también nos guió sobre qué debíamos armar y cómo. Nos contó en qué consistía un parlamento, ya que no todos estábamos al tanto de qué era o cómo se participaba. Además, como él es abogado, nos informó sobre las distintas leyes ambientales que se nombran en el proyecto, lo que finalmente le dio su forma legislativa. 
+
+<div class="img-horizontal">
+  <img src="/images/tomo2/entrevista-2.jpg" alt="GianLuca haciendo uso de la palabra desde su banca en la Cámara de Diputados de La Plata" />
+</div>
+
+Su rol combinó ambas cosas: la precisión técnica para armar una propuesta sólida y el empuje para que confiáramos en que nuestra voz valía lo mismo que la de cualquier funcionario.
+
+---
+
+**Sebastián:** También mencionaste a tu compañera que, por temas de salud, no pudo viajar. ¿Cómo se distribuyeron el trabajo en el equipo del CENS 451 y qué aporte fue fundamental el de ella, a pesar de la ausencia en el recinto?
+
+**GianLuca:** A pesar de que no pudo participar en el evento en La Plata, debo destacar que, en menor o mayor medida, hubo participación por parte de todos en el aula. Mientras decidíamos qué tratar en el proyecto, todos debatíamos o comentábamos algo, y con todo ese debate le fuimos dando forma. Cuando finalmente nos tocó ir al parlamento en Cañuelas, las dos compañeras que fueron conmigo, Noelia Herenu y Luna Ramírez, y yo nos turnamos para leer y presentar los dos proyectos que llevamos a esa instancia.
+
+Después de que pasamos la primera instancia en Cañuelas y debíamos prepararnos para ir a La Plata, la directora, Milagros Echarri, y la preceptora, Beatriz Hernandez, organizaron que dos concejales del Consejo Deliberante de Cañuelas, Natalia y Héctor, que forman parte de la comisión de Ambiente, fueran al colegio para darnos una charla. Ellos nos contaron qué es lo que hacen en su comisión, cómo era la segunda instancia en La Plata y nos compartieron información que podría servirnos para nuestro proyecto.
+
+Por otra parte, cuando los demás profesores se enteraron de que estábamos participando, todos de alguna forma se involucraron: nos preguntaban, nos comentaban algo. Nuestra profesora Tamara Carnero fue quien conocía a la fundadora de la organización *Vecinosvscontaminacion*, que es un grupo de vecinos unidos de los barrios Santa Rosa, Los Pozos, barrios abiertos del sur y Chacras del Sur. Ella organizó que dos de sus representantes, Malena y Daniel, fueran a nuestro colegio a dar una charla y contarnos qué hacían. Nos mostraron cómo documentan información sobre la contaminación, etc.
+
+En cuanto a lo que me preguntabas sobre la distribución del trabajo o quién aportó qué, creo que lo que más me gusta resaltar es eso: cómo toda la institución se involucró de alguna forma u otra. En menor o mayor medida, todos aportaron algo. Me parece muy destacable, porque de no ser así no hubiéramos tenido las dos charlas en el colegio, ni con los concejales, Natalia y Héctor, ni con Malena y Daniel, los dos representantes de *Vecinosvscontaminacion*.
+
+---
+
+### La Participación en el Parlamento
+
+**Sebastián:** Más allá de la experiencia de estar en la Honorable Cámara de Diputados, ¿cuál fue para vos el principal desafío al debatir con representantes de toda la provincia y cómo te preparaste para ese momento de exposición?
+
+**GianLuca:** Con honestidad, creo que las dos dificultades más grandes fueron, por un lado, no saber bien cómo era el evento o qué esperar de él, aunque los concejales, Natalia y Héctor, y el profesor Christian nos habían comentado algo, ya que participar es muy distinto. A eso se sumaron los nervios de tener que hablar en público frente a tantas personas. Para prepararme, básicamente releí el proyecto varias veces para no sentirme tan desorientado al tener que presentarlo.
+
+<div class="img-horizontal">
+  <img src="/images/tomo2/entrevista-3.jpg" alt="Vista panorámica del recinto de la Cámara de Diputados durante el debate juvenil" />
+</div>
+
+**Sebastián:** Una de las partes más fuertes de tu intervención fue cuando le diste visibilidad a los vecinos autoconvocados de Cañuelas que monitorean el río Matanza. ¿Qué te hizo sentir que era vital enfocar el discurso en ellos y no solo en los aspectos técnicos de la contaminación?
+
+**GianLuca:** A mí lo que me pasó con respecto a eso es que esa organización, *Vecinosvscontaminacion*, está formada prácticamente por vecinos nuestros, y la verdad es que no los conocía. Cuando nosotros comenzamos a trabajar con todo este proyecto en el colegio, y de pronto nuestra profesora nos contó que en nuestro propio barrio había un grupo de personas que se dedicaba a lo mismo que nosotros buscábamos llevar con nuestro proyecto, fue bastante impactante. Saber que alguien ya hacía algo muy similar y no estábamos enterados fue revelador. Cuando ellos fueron a nuestro colegio a charlar, recuerdo haberle dicho a una de las chicas que me parecía increíble lo que hacían, muy destacable que lo hagan de forma autogestionada, y también un poco triste ver cómo obtienen menos reconocimiento del que merecen.
+
+Cuando en la Cámara de Diputados los representantes de la comisión de Ambiente terminaron de exponer, primero sentí que ya habían abordado el tema muy bien y que yo no tenía nada más que agregar. Sumado a los nervios, no iba a solicitar la palabra. Pero luego recordé a esta organización. Entonces, pedí la palabra para mencionarlos a ellos, porque realmente creo que lo merecen por lo que hacen. Y como bien dije, así como ellos actúan respecto al río Matanza, estoy seguro de que en todo el país hay, como mínimo, una persona intentando de su manera abordar cada una de las problemáticas que se nombraron en el parlamento. Ya que tenía la oportunidad de hablar en la Cámara de Diputados, me pareció una buena ocasión para hacer que todas esas personas y organizaciones, aunque indirectamente, también formaran parte del parlamento.
+
+---
+
+**Sebastián:** El proyecto buscaba generar soluciones, pero tu crítica también fue muy clara. ¿Creés que lograste interpelar a las autoridades para que dejen de ignorar el esfuerzo de la gente común que, como dijiste, pone plata y cuerpo por la causa?
+
+**GianLuca:** Me gusta creer que todas las personas que participamos en La Plata logramos de alguna forma resonar en las autoridades sobre lo que expuso cada uno. Siendo realistas, la verdad es que muchas cosas sobrepasan lo que podemos hacer, pero elijo creer que muchos de los discursos del evento quedaron haciendo eco en la mente de alguien y que, de alguna forma, todo construye algo mayor que el evento en sí.
+
+<div class="img-horizontal">
+  <img src="/images/tomo2/entrevista-4.jpg" alt="Foto grupal de la delegación de Cañuelas junto a docentes y autoridades institucionales" />
+</div>
+
+---
+
+**Sebastián:** Si bien el objetivo de ser seleccionados como representantes provinciales no se dio, ustedes llegaron muy lejos. ¿Qué lecciones se llevan vos y tu equipo de esta experiencia en el Parlamento?
+
+**GianLuca:** No creo que ser elegidos como representantes sea el objetivo en sí. Obviamente, todos fuimos porque queríamos dar voz a algo, y en cierta forma todos lo logramos, ya sea como representantes en la Cámara de Diputados o, horas antes, cuando cada uno expuso su propio proyecto y votamos a los representantes que iban a participar del parlamento. Con Christian, que es nuestro profesor de Ciudadanía, muchas veces en clase hablábamos de la "ciudadanía activa", que consiste, según lo que veíamos, en participar en todo lo relacionado con la sociedad, en tener un rol activo. Y eso fue justamente lo que hicimos todos en ese evento, así que creo que la lección que más me llevo es esa: la ciudadanía activa.
+
+Aparte de esto, me llevé una experiencia muy particular del evento, y fue el discurso de Cristina Guero, de Evaluación de la Cruz. Sin quitarle mérito a ninguno de los representantes que fueron elegidos, creo que todos nos llevamos la misma impresión: quedamos realmente impactados por su discurso. La manera en que lo hizo, la confianza que tuvo (o al menos la que aparentaba, porque por dentro seguro sentía tantos nervios como todos nosotros), pero participó como si la Cámara de Diputados fuera su hogar. Recuerdo escucharla y pensar: "Ojalá lance su candidatura política, estoy seguro de que ya tiene el voto asegurado de la gran mayoría de las personas presentes".
+
+---
+
+**Sebastián:** Ahora que tienen este proyecto elaborado y validado en un espacio de debate, ¿cuáles son los próximos pasos concretos que planean dar para que las problemáticas del arroyo en Cañuelas y el trabajo de esas organizaciones vecinales sigan teniendo visibilidad y consigan apoyo?
+
+**GianLuca:** Recuerdo que los concejales que fueron al colegio, Natalia y Héctor, nos dijeron que podíamos volver a participar en el Consejo Deliberante para presentar el proyecto cuando quisiéramos. Ese podría ser un buen inicio para continuarlo: tener la opción de volver a participar en un evento así.
+
+---
+
+**Sebastián:** Para cerrar, ¿qué mensaje le darías a otros jóvenes de la Provincia de Buenos Aires que, como vos, ven problemas en su comunidad pero no saben cómo empezar a actuar o a participar políticamente? ¿Vale la pena meterse en estos espacios?
+
+**GianLuca:** Primero, que seguramente ya hay personas que ven la misma problemática e intentan tomar acciones al respecto, por lo que encontrarlas y colaborar con ellas sería una buena opción. Y segundo, hacer lo mismo que nos dijeron los concejales, Natalia y Héctor: presentar las problemáticas en un espacio institucional como en el que participamos, al menos a nivel municipal. No sé si en todos lados funciona así, pero quiero creer que sí y que todos tienen la misma oportunidad.
