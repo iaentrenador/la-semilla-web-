@@ -35,31 +35,17 @@ Abrí Google Maps, pero olvidate del satélite. Acá no hay calles, hay venas ab
 
 El arroyo Cebey nace en Cañuelas, provincia de Buenos Aires. No es un nacimiento, es una condena. Desde su curso hasta su desembocadura final —conectando con la cuenca que llega al Río de la Plata— recorre kilómetros de tierra que alguna vez fue fértil. Hoy es tierra bajo sospecha. Tierra donde opera **Hijos de Pedro Vicenti S.A.**, que suena a empresa familiar, a tradición, a laburo honesto. Pero en el barrio se siente más familia Addams que familia Ingalls.
 
-![Mapa de Cañuelas y el arroyo Cebey con un pin rojo que señala una ubicación exacta](/images/tomo2/google-maps.jpg)
+<div class="img-horizontal">
+  ![Mapa de Cañuelas y el arroyo Cebey con un pin rojo que señala una ubicación exacta](/images/tomo2/google-maps.jpg)
+</div>
 
 El recorrido es así: el agua arranca limpia en los papeles —o eso dicen los que la vieron hace décadas— y va acumulando el impacto a medida que atraviesa las zonas industriales. Es como el pibe que sale de joda con la camisa blanca y vuelve hecho un desastre. Pero acá no es diversión, es la presunta presencia de residuos industriales. No es un descontrol de una noche, es un impacto sostenido de años.
 
 ### LAS ZONAS AFECTADAS: EL RADIO DEL IMPACTO
 
 * **Barrios aledaños:** Familias que abren la canilla y ya no saben si preparar mate o dudar de la seguridad de su propia agua.
-* **Zonas ribereñas:** Un ecosistema golpeado donde la fauna autóctona resiste en un entorno visiblemente degradado.
+* **Zonas ribereñas:** Un ecosistema golpeado donde la fauna activa e indomable resiste en un entorno visiblemente degradado.
 * **El Río de la Plata:** El final del viaje. El agua del Cebey arrastra la problemática río abajo, expandiendo el impacto ambiental a una escala mucho mayor.
-
-### EL CERTIFICADO: LA UBICACIÓN EXACTA DE LA IRONÍA
-
-Acá está el dato que duele: mientras la comunidad denuncia el estado del agua, la gestión local sostiene el Certificado de Aptitud Ambiental para la firma cuestionada. Es como darle un premio de seguridad vial al que maneja a contramano. La ubicación exacta de la contradicción institucional: allí donde la normativa parece mirar para otro lado mientras el reclamo vecinal no para de crecer.
-
-![Evidencia fotográfica del decreto de la Municipalidad de Cañuelas otorgando la aptitud ambiental](/images/tomo2/decreto.jpg)
-
-![Copia del Certificado de Aptitud Ambiental firmado por las autoridades locales](/images/tomo2/certificado.jpg)
-
-### COORDENADAS PARA EL REGISTRO
-
-* **Latitud:** La que te expone a la desidia.
-* **Longitud:** La que te indigna por completo.
-* **Altitud:** La de la dignidad comunitaria, que es lo único que se mantiene firme.
-
-El Cebey no es solo un punto en el mapa. Es una problemática que corre y se expande. Y mientras leés esto, el agua sigue fluyendo. Ubicate: estás acá, en el medio del territorio, y la única salida es la organización y la denuncia.
 
 ---
 
@@ -80,7 +66,6 @@ El Cebey nace como arroyo. Agua corriendo, vida, naturaleza haciendo su trabajo.
 Empiezan los vecinos a notar que algo en el agua no está bien. El olor y el color encienden las alarmas en los barrios linderos. Es ahí donde nace la organización: vecinos unidos comienzan a formalizar el reclamo. Se inician expedientes, se acumulan carpetas en las mesas de entradas y se presentan denuncias formales ante las autoridades correspondientes. Cada presentación es una voz de alerta en medio de la inacción. Las familias reclaman que el agua y el ecosistema muestran signos evidentes de degradación, pero las respuestas oficiales se dilatan en la burocracia de los pasillos municipales. 
 
 "Señores, el agua presenta signos de contaminación."
-
 "Sí, sí, vamos a inspeccionar."
 
 Spoiler: el reclamo de los vecinos unidos demuestra que las inspecciones tardaron años en traducirse en medidas concretas, dejando desprotegido al barrio mientras el malestar crecía.
@@ -99,14 +84,14 @@ Pero la contradicción administrativa que denuncian los damnificados es feroz: m
 
 El momento culminante del conflicto administrativo. Tras años de reclamos vecinales y expedientes acumulados, la comunidad se encuentra con una pared oficial. Los documentos que salieron a la luz demuestran que, a pesar de las alertas comunitarias, la firma cuestionada obtuvo el aval legal de la intendenta y la Secretaría de Medio Ambiente local.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin: 1.5rem 0;">
-  <img src="/images/tomo2/decreto.jpg" alt="Evidencia del Decreto Municipal de Cañuelas" />
+<div class="img-documento">
+  ![Evidencia del Decreto Municipal de Cañuelas](/images/tomo2/decreto.jpg)
 </div>
 
 Como consta en la documentación oficial rescatada por los vecinos damnificados, el dictamen de inspección municipal convalidó las condiciones de la planta, permitiendo el dictado del acto administrativo correspondiente.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin: 1.5rem 0;">
-  <img src="/images/tomo2/certificado.jpg" alt="Certificado de Aptitud Ambiental otorgado a la firma" />
+<div class="img-documento">
+  ![Certificado de Aptitud Ambiental otorgado a la firma](/images/tomo2/certificado.jpg)
 </div>
 
 A través del Decreto N° 0080, el municipio otorgó formalmente el **Certificado de Aptitud Ambiental** a *Hijos de Pedro Vicenti S.A.* para su planta de "Preparación de tripas frescas, saladas o secas de origen vacuno", clasificándola en Segunda Categoría y extendiendo su vigencia hasta febrero de 2028. Mientras el reclamo de vecinos unidos sigue alertando sobre el estado real del arroyo Cebey, en los papeles del municipio figura que el entorno está administrativamente protegido.
@@ -118,5 +103,6 @@ A través del Decreto N° 0080, el municipio otorgó formalmente el **Certificad
 El arroyo sigue corriendo. Los vecinos unidos siguen organizados en el territorio. La planta continúa operando bajo el amparo de la resolución municipal. Y esta revista mantiene su compromiso como canal de difusión y registro de cada documento y cada voz del barrio.
 
 **La película no terminó. Pero el público ya se cansó de mirar.**
+
 
 
