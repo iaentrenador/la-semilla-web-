@@ -21,9 +21,17 @@ El Cebey no es un arroyo, es una vena abierta. Y no sangra agua, sangra contradi
 
 Pero acá no viene el final feliz de película. Acá viene la crónica. Acá viene el registro. Porque nosotros no somos el público que aplaude el atropello, nosotros somos los que grabamos con las cámaras de seguridad para que quede evidencia. Esta revista es nuestro tribunal.
 
-Así que agarrate. Because en este tomo te vamos a mostrar la realidad del territorio, la cronología del conflicto. Y al final, la voz de un pibe que fue al parlamento a decirles la verdad de los barrios en la cara. Sin vueltas, sin disfraz. Con los pies en el barro y la voz firme.
+Así que agarrate. **Porque** en este tomo te vamos a mostrar la realidad del territorio, la cronología del conflicto. Y al final, la voz de un pibe que fue al parlamento a decirles la verdad de los barrios en la cara. Sin vueltas, sin disfraz. Con los pies en el barro y la voz firme.
 
 Bienvenidos al Cebey. El agua está bajo sospecha, pero la resistencia está clara.
+
+---
+
+## 📍 Coordenadas para el Registro
+
+Para activar la resistencia no alcanza con indignarse en las redes sociales; hay que pisar el territorio y registrar el daño con precisión milimétrica. La organización comunitaria se construye con datos, con mapeos colectivos y con el cuerpo en el lugar de los hechos.
+
+El registro fotográfico y audiovisual no es un hobby: es nuestra herramienta de auditoría social. Cada coordenada guardada, cada muestra observada en frascos transparentes y cada imagen archivada es un ladrillo en la pared de la verdad que los canales oficiales intentan tapar. Cuando el Estado se retira y las empresas avanzan, la cartografía social de los vecinos unidos se convierte en la primera línea de defensa de los barrios.
 
 ---
 
@@ -49,7 +57,7 @@ El recorrido es así: el agua arranca limpia en los papeles —o eso dicen los q
 
 ---
 
-## ⏳ SECCIÓN 4: CRONOLOGÍA DEL DESASTRE
+## ⏳ CRONOLOGÍA DEL DESASTRE
 
 Vamos, poné la música de suspenso. Esto es *Volver al Futuro*, pero en vez de ir adelante vamos para atrás. Y en vez de DeLorean tenemos un camión cisterna bajo la lupa vecinal. Escuchen bien porque esto es historia reciente, pero duele como si fuera antigua. Esta es la cronología de un reclamo colectivo que la comunidad organizada tuvo que sostener a pulmón.
 
@@ -85,7 +93,7 @@ Pero la contradicción administrativa que denuncian los damnificados es feroz: m
 El momento culminante del conflicto administrativo. Tras años de reclamos vecinales y expedientes acumulados, la comunidad se encuentra con una pared oficial. Los documentos que salieron a la luz demuestran que, a pesar de las alertas comunitarias, la firma cuestionada obtuvo el aval legal de la intendenta y la Secretaría de Medio Ambiente local.
 
 <div class="img-documento">
-  ![Evidencia del Decreto Municipal de Cañuelas](/images/tomo2/decreto.jpg)
+  ![Evidencia del Decreto Municipal de Cañuelas](/images/teno2/decreto.jpg)
 </div>
 
 Como consta en la documentación oficial rescatada por los vecinos damnificados, el dictamen de inspección municipal convalidó las condiciones de la planta, permitiendo el dictado del acto administrativo correspondiente.
@@ -103,6 +111,3 @@ A través del Decreto N° 0080, el municipio otorgó formalmente el **Certificad
 El arroyo sigue corriendo. Los vecinos unidos siguen organizados en el territorio. La planta continúa operando bajo el amparo de la resolución municipal. Y esta revista mantiene su compromiso como canal de difusión y registro de cada documento y cada voz del barrio.
 
 **La película no terminó. Pero el público ya se cansó de mirar.**
-
-
-
