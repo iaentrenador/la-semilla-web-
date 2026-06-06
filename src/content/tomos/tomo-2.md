@@ -60,3 +60,63 @@ Acá está el dato que duele: mientras la comunidad denuncia el estado del agua,
 * **Altitud:** La de la dignidad comunitaria, que es lo único que se mantiene firme.
 
 El Cebey no es solo un punto en el mapa. Es una problemática que corre y se expande. Y mientras leés esto, el agua sigue fluyendo. Ubicate: estás acá, en el medio del territorio, y la única salida es la organización y la denuncia.
+
+---
+
+## ⏳ SECCIÓN 4: CRONOLOGÍA DEL DESASTRE
+
+Vamos, poné la música de suspenso. Esto es *Volver al Futuro*, pero en vez de ir adelante vamos para atrás. Y en vez de DeLorean tenemos un camión cisterna bajo la lupa vecinal. Escuchen bien porque esto es historia reciente, pero duele como si fuera antigua. Esta es la cronología de un reclamo colectivo que la comunidad organizada tuvo que sostener a pulmón.
+
+---
+
+### **ACTO I: EL ORIGEN (Hace décadas, cuando todo empezó)**
+
+El Cebey nace como arroyo. Agua corriendo, vida, naturaleza haciendo su trabajo. Pero según los registros del reclamo de vecinos unidos, en la década de los 90 llega la actividad industrial a la zona. La firma **Hijos de Pedro Vicenti S.A.** se instala, monta sus maquinarias y comienza su producción. Las denuncias de la comunidad señalan que lo que empezó como un impacto menor, con los años se transformó en un problema ambiental sostenido. El reclamo histórico vecinal apunta a que el crecimiento industrial se dio sin los debidos controles comunitarios, alterando el entorno de las familias que ya habitaban el territorio.
+
+---
+
+### **ACTO II: LAS DENUNCIAS (Los últimos años, la voz que nadie escucha)**
+
+Empiezan los vecinos a notar que algo en el agua no está bien. El olor y el color encienden las alarmas en los barrios linderos. Es ahí donde nace la organización: vecinos unidos comienzan a formalizar el reclamo. Se inician expedientes, se acumulan carpetas en las mesas de entradas y se presentan denuncias formales ante las autoridades correspondientes. Cada presentación es una voz de alerta en medio de la inacción. Las familias reclaman que el agua y el ecosistema muestran signos evidentes de degradación, pero las respuestas oficiales se dilatan en la burocracia de los pasillos municipales. 
+
+"Señores, el agua presenta signos de contaminación."
+
+"Sí, sí, vamos a inspeccionar."
+
+Spoiler: el reclamo de los vecinos unidos demuestra que las inspecciones tardaron años en traducirse en medidas concretas, dejando desprotegido al barrio mientras el malestar crecía.
+
+---
+
+### **ACTO III: EL DIÁLOGO (La farsa burocrática)**
+
+Frente a la presión de la comunidad organizada, la intendencia de Cañuelas convoca a mesas de diálogo. Mesas redondas, promesas de soluciones y actas de compromiso. Los vecinos se sientan frente a los funcionarios locales, explicando con datos en la mano y el testimonio de sus familias cómo conviven día a día con el impacto ambiental del arroyo en el territorio. Del otro lado, anotadores abiertos y rostros de preocupación institucional.
+
+Pero la contradicción administrativa que denuncian los damnificados es feroz: mientras los vecinos dedicaban su tiempo y paciencia a creer en los canales oficiales y en el diálogo institucional, en paralelo se gestionaban los avales normativos para la actividad cuestionada. No es diálogo, es una estrategia de distracción.
+
+---
+
+### **ACTO IV: EL CERTIFICADO (El golpe burocrático)**
+
+El momento culminante del conflicto administrativo. Tras años de reclamos vecinales y expedientes acumulados, la comunidad se encuentra con una pared oficial. Los documentos que salieron a la luz demuestran que, a pesar de las alertas comunitarias, la firma cuestionada obtuvo el aval legal de la intendenta y la Secretaría de Medio Ambiente local.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin: 1.5rem 0;">
+  <img src="/images/tomo2/decreto.jpg" alt="Evidencia del Decreto Municipal de Cañuelas" />
+</div>
+
+Como consta en la documentación oficial rescatada por los vecinos damnificados, el dictamen de inspección municipal convalidó las condiciones de la planta, permitiendo el dictado del acto administrativo correspondiente.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin: 1.5rem 0;">
+  <img src="/images/tomo2/certificado.jpg" alt="Certificado de Aptitud Ambiental otorgado a la firma" />
+</div>
+
+A través del Decreto N° 0080, el municipio otorgó formalmente el **Certificado de Aptitud Ambiental** a *Hijos de Pedro Vicenti S.A.* para su planta de "Preparación de tripas frescas, saladas o secas de origen vacuno", clasificándola en Segunda Categoría y extendiendo su vigencia hasta febrero de 2028. Mientras el reclamo de vecinos unidos sigue alertando sobre el estado real del arroyo Cebey, en los papeles del municipio figura que el entorno está administrativamente protegido.
+
+---
+
+### **EPÍLOGO: HOY**
+
+El arroyo sigue corriendo. Los vecinos unidos siguen organizados en el territorio. La planta continúa operando bajo el amparo de la resolución municipal. Y esta revista mantiene su compromiso como canal de difusión y registro de cada documento y cada voz del barrio.
+
+**La película no terminó. Pero el público ya se cansó de mirar.**
+
+
