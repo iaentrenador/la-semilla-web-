@@ -82,7 +82,7 @@ Spoiler: el reclamo de los vecinos unidos demuestra que las inspecciones tardaro
 
 ### **ACTO III: EL DIÁLOGO (La farsa burocrática)**
 
-Frente a la presión de la comunidad organizada, la intendencia de Cañuelas convoca a mesas de diálogo. Mesas redondas, promesas de soluciones y actas de compromiso. Los vecinos se sientan frente a los funcionarios locales, explicando con datos en la mano y el testimonio de sus familias cómo conviven día a día con el impacto ambiental del arroyo en el territorio. Del otro lado, anotadores abiertos y rostros de preocupación institucional.
+Frente a la presión de la comunidad organizada, la intendencia de Cañuelas convoca a mesas de diálogo. Mesas redondas, promesas de soluciones y actas de compromiso. Los vecinos se sientan frente a los funcionarios locales, explicando con datos en la mano y el testimonio de sus familias cómo conviven día a día con el impacto ambiental del arroyo en el territorio. Del otro lado, anotadores abiertos y rostros de preocupación institutional.
 
 Pero la contradicción administrativa que denuncian los damnificados es feroz: mientras los vecinos dedicaban su tiempo y paciencia a creer en los canales oficiales y en el diálogo institucional, en paralelo se gestionaban los avales normativos para la actividad cuestionada. No es diálogo, es una estrategia de distracción.
 
@@ -93,7 +93,7 @@ Pero la contradicción administrativa que denuncian los damnificados es feroz: m
 El momento culminante del conflicto administrativo. Tras años de reclamos vecinales y expedientes acumulados, la comunidad se encuentra con una pared oficial. Los documentos que salieron a la luz demuestran que, a pesar de las alertas comunitarias, la firma cuestionada obtuvo el aval legal de la intendenta y la Secretaría de Medio Ambiente local.
 
 <div class="img-documento">
-  ![Evidencia del Decreto Municipal de Cañuelas](/images/teno2/decreto.jpg)
+  ![Evidencia del Decreto Municipal de Cañuelas](/images/tomo2/decreto.jpg)
 </div>
 
 Como consta en la documentación oficial rescatada por los vecinos damnificados, el dictamen de inspección municipal convalidó las condiciones de la planta, permitiendo el dictado del acto administrativo correspondiente.
